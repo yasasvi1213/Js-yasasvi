@@ -2,7 +2,6 @@
 
 // alert('Hello') // we are using node js not browser
 
-
 // number => 2 to power 53
 // bigint
 // string => ""
@@ -13,7 +12,7 @@
 
 // object
 
-console.log(typeof 'name');// string
+console.log(typeof "name"); // string
 console.log(typeof undefined); // undefined
 
 console.log(typeof null); // object
